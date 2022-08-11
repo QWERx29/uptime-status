@@ -7,7 +7,7 @@ window.Config = {
   // UptimeRobot Api Keys
   // 支持 Monitor-Specific 和 Read-Only
   ApiKeys: [
-    'ur1078385-b9802a0868414b8a975d5038',
+    'm792450059-0190f1c1c3e3d7ac51a7bcfa',
   ],
 
     // 日志天数
@@ -21,8 +21,8 @@ window.Config = {
   // 导航栏菜单
   Navi: [
     {
-      text: '主页',
-      url: 'https://tjys.tk'
+      text: 'GitHub Pages',
+      url: 'https://QWERx29.github.io'
     },
     {
       text: '博客',
